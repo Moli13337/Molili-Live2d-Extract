@@ -9,10 +9,13 @@
 
 已知限制：
 
-- HitAreas 留空：ArtMesh 名为通用 ArtMesh1-1025 ，无法自动匹配 Head/Body/Face；如需点击交互需在 VTS 内手动配置
-- pose3.json 缺失：源资产未配置 pose 数据
+- HitAreas 留空：ArtMesh 名为通用 ArtMesh1-1025 ，无法自动匹配 Head/Body/Face；如需点击交互需在 VTS 内手动配置。
+- pose3.json 缺失：源资产未配置 pose 数据。
 
-使用方式: 下载Cubism并加载"Catgirl.model3.json"即可。"Live2d"文件夹内的文件结构不要动，除非你具有修补此项目的能力。
+使用方式:
+
+- Cubism 使用方式: 下载`Cubism`并加载`Catgirl.model3.json`即可。`Live2d`文件夹内的文件结构不要动，除非你具有修补此项目的能力。
+- VTS 使用方式: 把`Catgirl_vts`塞入你的vts模型文件夹下即可。
 
 预览:
 ![](./pic/1.png)
