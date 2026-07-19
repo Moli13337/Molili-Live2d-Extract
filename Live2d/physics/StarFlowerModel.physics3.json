@@ -1,0 +1,22 @@
+{
+  "Version": 3,
+  "Meta": {
+    "PhysicsSettingCount": 0,
+    "TotalInputCount": 0,
+    "TotalOutputCount": 0,
+    "TotalVertexCount": 0,
+    "EffectiveForces": {
+      "Gravity": {
+        "X": 0.0,
+        "Y": -1.0
+      },
+      "Wind": {
+        "X": 0.0,
+        "Y": 0.0
+      }
+    },
+    "Fps": 30.0,
+    "PhysicsDictionary": []
+  },
+  "PhysicsSettings": []
+}

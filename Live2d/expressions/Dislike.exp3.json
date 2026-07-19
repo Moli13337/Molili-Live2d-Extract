@@ -1,0 +1,42 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 1.0,
+  "FadeOutTime": 1.0,
+  "Parameters": [
+    {
+      "Id": "ParamBlackFace",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleX",
+      "Value": -2.812000036239624,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamEyeAngle",
+      "Value": -1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "Value": -0.5090000033378601,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "Value": -1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamDislike",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleY",
+      "Value": 26.875,
+      "Blend": "Add"
+    }
+  ]
+}

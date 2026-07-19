@@ -1,2 +1,12 @@
 # Molili-Live2d-Extract
-圈钱文爱游戏的Live2d模型美术资源文件提取，手动修补了model3.json文件缺失问题。
+
+某圈钱文爱游戏的Live2d模型美术资源文件提取，手动修补了model3.json文件缺失问题。
+
+游戏Steam商店页面地址；https://store.steampowered.com/app/4141770
+
+后续会修补为支持VTube Studio(VTS)一键加载的资源。
+
+使用方式: 下载Cubism并加载"Catgirl.model3.json"即可。"Live2d"文件夹内的文件结构不要动，除非你具有修补此项目的能力。
+
+预览:
+![](./pic/1.png)

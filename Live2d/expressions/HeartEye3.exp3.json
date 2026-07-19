@@ -1,0 +1,27 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 0.5,
+  "FadeOutTime": 1.0,
+  "Parameters": [
+    {
+      "Id": "ParamHeart",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamHeartAnimetion3",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "Value": 0.027000000700354576,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "Value": 0.4909999966621399,
+      "Blend": "Add"
+    }
+  ]
+}

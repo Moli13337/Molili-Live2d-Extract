@@ -1,0 +1,36 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "moc/StarFlowerModel.moc3",
+    "Textures": [
+      "textures/texture_00_21.png",
+      "textures/texture_01_25.png"
+    ],
+    "Physics": "physics/StarFlowerModel.physics3.json",
+    "Pose": "",
+    "Motions": {
+      "Idle": [
+        {
+          "File": "motions/cherry.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/default.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/star.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        }
+      ]
+    },
+    "Expressions": [],
+    "UserData": "",
+    "DisplayInfo": ""
+  },
+  "Groups": [],
+  "HitAreas": []
+}

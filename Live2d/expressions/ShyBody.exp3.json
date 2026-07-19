@@ -1,0 +1,57 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 1.0,
+  "FadeOutTime": 1.0,
+  "Parameters": [
+    {
+      "Id": "ParamAngryEar",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamCheek",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleX",
+      "Value": -17.277000427246094,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleY",
+      "Value": -17.679000854492188,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "Value": -0.19599999487400055,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "Value": 0.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "Value": -0.6700000166893005,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "Value": -0.6430000066757202,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamArmCross",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngry",
+      "Value": 1.0,
+      "Blend": "Add"
+    }
+  ]
+}

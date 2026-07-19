@@ -1,0 +1,57 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 1.0,
+  "FadeOutTime": 1.0,
+  "Parameters": [
+    {
+      "Id": "ParamHoldHandX",
+      "Value": 0.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamHoldHandY",
+      "Value": 0.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamHoldHand",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamCheek",
+      "Value": 0.20000000298023224,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamStar",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamStarEyes",
+      "Value": 0.2800000011920929,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "Value": -6.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "Value": -0.7329999804496765,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleY",
+      "Value": -14.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleX",
+      "Value": -5.400000095367432,
+      "Blend": "Add"
+    }
+  ]
+}

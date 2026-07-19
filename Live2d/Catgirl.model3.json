@@ -1,0 +1,495 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "moc/Catgirl.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png",
+      "textures/texture_03.png",
+      "textures/texture_04.png",
+      "textures/texture_05.png",
+      "textures/texture_3.png",
+      "textures/touchBody.png",
+      "textures/touchFace.png",
+      "textures/touchHand.png",
+      "textures/touchHead.png",
+      "textures/loveBubble.png",
+      "textures/favorability.png"
+    ],
+    "Physics": "physics/Catgirl.physics3.json",
+    "Pose": "",
+    "Motions": {
+      "Idle": [
+        {
+          "File": "motions/Breath.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Draw.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/DrinkTea.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/EatSnack.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/FacePinchingL.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/FacePinchingR.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Idle.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/LeftBreath.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/LeftDraw.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/LeftPlayGame.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/LeftRead.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/LeftRest.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/LeftSearch.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/LeftThink.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/MarryShy.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Music.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/PetOnTheHead.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/PlayGame.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Read.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Rest.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/RightBreath.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/RightDraw.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/RightPlayGame.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/RightRead.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/RightRest.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/RightSearch.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/RightThink.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Search.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/ShakeHand.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Shy.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Speak.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/TakePhoto.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Think.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/ToMarry.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Type.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        },
+        {
+          "File": "motions/Yawn.motion3.json",
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "Angry",
+        "File": "expressions/Angry.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "AngryEar",
+        "File": "expressions/AngryEar.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "AngryMouth",
+        "File": "expressions/AngryMouth.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "ArmRing",
+        "File": "expressions/ArmRing.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "BreastOrnament",
+        "File": "expressions/BreastOrnament.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "ButterFly",
+        "File": "expressions/ButterFly.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Cry",
+        "File": "expressions/Cry.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "CryMouth",
+        "File": "expressions/CryMouth.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Default",
+        "File": "expressions/Default.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Dislike",
+        "File": "expressions/Dislike.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "DislikeMouth",
+        "File": "expressions/DislikeMouth.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Dizzy",
+        "File": "expressions/Dizzy.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "DizzyMouth",
+        "File": "expressions/DizzyMouth.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "EarRing",
+        "File": "expressions/EarRing.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "FrontHairOrnament",
+        "File": "expressions/FrontHairOrnament.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Glasses",
+        "File": "expressions/Glasses.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Happy",
+        "File": "expressions/Happy.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "HeadRing",
+        "File": "expressions/HeadRing.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "HeartEye",
+        "File": "expressions/HeartEye.exp3.json",
+        "FadeInTime": 0.5,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "HeartEye2",
+        "File": "expressions/HeartEye2.exp3.json",
+        "FadeInTime": 0.5,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "HeartEye3",
+        "File": "expressions/HeartEye3.exp3.json",
+        "FadeInTime": 0.5,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "HeartEye4",
+        "File": "expressions/HeartEye4.exp3.json",
+        "FadeInTime": 0.5,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "HeartEyes",
+        "File": "expressions/HeartEyes.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Holdhand",
+        "File": "expressions/Holdhand.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "LegDecoration",
+        "File": "expressions/LegDecoration.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "LightPointEffects",
+        "File": "expressions/LightPointEffects.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Moe",
+        "File": "expressions/Moe.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "PinchFace",
+        "File": "expressions/PinchFace.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "PinchFaceAction",
+        "File": "expressions/PinchFaceAction.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "PinchFaceL",
+        "File": "expressions/PinchFaceL.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "PinchFaceR",
+        "File": "expressions/PinchFaceR.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "ReadBook",
+        "File": "expressions/ReadBook.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Sad",
+        "File": "expressions/Sad.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Shy",
+        "File": "expressions/Shy.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "ShyBody",
+        "File": "expressions/ShyBody.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "SkirtOrnament",
+        "File": "expressions/SkirtOrnament.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Sleep",
+        "File": "expressions/Sleep.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Star",
+        "File": "expressions/Star.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "StarEffects",
+        "File": "expressions/StarEffects.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "StarEyes",
+        "File": "expressions/StarEyes.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Tear",
+        "File": "expressions/Tear.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Tongue",
+        "File": "expressions/Tongue.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "TouchHead",
+        "File": "expressions/TouchHead.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "TouchHeadR",
+        "File": "expressions/TouchHeadR.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "Tougue",
+        "File": "expressions/Tougue.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "TwinTailHairOrnament",
+        "File": "expressions/TwinTailHairOrnament.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      },
+      {
+        "Name": "TypeWriter",
+        "File": "expressions/TypeWriter.exp3.json",
+        "FadeInTime": 1.0,
+        "FadeOutTime": 1.0
+      }
+    ],
+    "UserData": "",
+    "DisplayInfo": ""
+  },
+  "Groups": [],
+  "HitAreas": []
+}

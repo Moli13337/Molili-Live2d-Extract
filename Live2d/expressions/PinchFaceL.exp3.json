@@ -1,0 +1,42 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 1.0,
+  "FadeOutTime": 1.0,
+  "Parameters": [
+    {
+      "Id": "ParaminchFaceL",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParaminchFaceLOn",
+      "Value": 1.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "Value": -0.2800000011920929,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "Value": -0.20000000298023224,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleX",
+      "Value": -0.6000000238418579,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleY",
+      "Value": 0.0,
+      "Blend": "Add"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "Value": -3.5999999046325684,
+      "Blend": "Add"
+    }
+  ]
+}
