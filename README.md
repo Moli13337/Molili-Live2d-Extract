@@ -1,6 +1,6 @@
 # Molili-Live2d-Extract
 
-某圈钱文爱游戏的Live2d模型美术资源文件提取，手动修补了model3.json文件缺失问题。
+某恶俗圈钱文爱游戏的Live2d模型美术资源文件提取，手动修补了model3.json文件缺失问题。
 
 游戏Steam商店页面地址；https://store.steampowered.com/app/4141770
 
