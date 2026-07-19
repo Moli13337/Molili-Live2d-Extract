@@ -1,0 +1,210 @@
+{
+  "Name": "Catgirl",
+  "ModelID": "",
+  "FileReferences": {
+    "Icon": "",
+    "Model": "Catgirl.model3.json",
+    "IdleAnimation": "motions/Idle.motion3.json",
+    "IdleAnimationWhenTrackingLost": "motions/Idle.motion3.json"
+  },
+  "HotkeyParams": [
+    {
+      "Name": "Happy (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Happy.exp3.json",
+      "KeyCombination": [
+        "1"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Angry (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Angry.exp3.json",
+      "KeyCombination": [
+        "2"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Cry (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Cry.exp3.json",
+      "KeyCombination": [
+        "3"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Shy (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Shy.exp3.json",
+      "KeyCombination": [
+        "4"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Sad (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Sad.exp3.json",
+      "KeyCombination": [
+        "5"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Moe (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Moe.exp3.json",
+      "KeyCombination": [
+        "6"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Dizzy (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Dizzy.exp3.json",
+      "KeyCombination": [
+        "7"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Sleep (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Sleep.exp3.json",
+      "KeyCombination": [
+        "8"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Dislike (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Dislike.exp3.json",
+      "KeyCombination": [
+        "9"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Default (Expression)",
+      "Type": "ToggleExpression",
+      "File": "expressions/Default.exp3.json",
+      "KeyCombination": [
+        "0"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Idle (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/Idle.motion3.json",
+      "KeyCombination": [
+        "F1"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Breath (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/Breath.motion3.json",
+      "KeyCombination": [
+        "F2"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Speak (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/Speak.motion3.json",
+      "KeyCombination": [
+        "F3"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Yawn (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/Yawn.motion3.json",
+      "KeyCombination": [
+        "F4"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "PetOnTheHead (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/PetOnTheHead.motion3.json",
+      "KeyCombination": [
+        "F5"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "ShakeHand (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/ShakeHand.motion3.json",
+      "KeyCombination": [
+        "F6"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "DrinkTea (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/DrinkTea.motion3.json",
+      "KeyCombination": [
+        "F7"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "EatSnack (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/EatSnack.motion3.json",
+      "KeyCombination": [
+        "F8"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "PlayGame (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/PlayGame.motion3.json",
+      "KeyCombination": [
+        "F9"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Read (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/Read.motion3.json",
+      "KeyCombination": [
+        "F10"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "Think (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/Think.motion3.json",
+      "KeyCombination": [
+        "F11"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "TakePhoto (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/TakePhoto.motion3.json",
+      "KeyCombination": [
+        "F12"
+      ],
+      "OnScreenButtonID": -1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "StarFlowerModel",
+  "ModelID": "",
+  "FileReferences": {
+    "Icon": "",
+    "Model": "StarFlowerModel.model3.json",
+    "IdleAnimation": "motions/default.motion3.json",
+    "IdleAnimationWhenTrackingLost": "motions/default.motion3.json"
+  },
+  "HotkeyParams": [
+    {
+      "Name": "cherry (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/cherry.motion3.json",
+      "KeyCombination": [
+        "F1"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "default (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/default.motion3.json",
+      "KeyCombination": [
+        "F2"
+      ],
+      "OnScreenButtonID": -1
+    },
+    {
+      "Name": "star (Motion)",
+      "Type": "TriggerAnimation",
+      "File": "motions/star.motion3.json",
+      "KeyCombination": [
+        "F3"
+      ],
+      "OnScreenButtonID": -1
+    }
+  ]
+}
